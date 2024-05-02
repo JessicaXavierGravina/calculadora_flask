@@ -14,3 +14,6 @@ def test_calculate():
 
     calculator_2 = Calculator2()
     result = calculator_2.calculate(mock_request)
+
+    assert isinstance(result, dict)
+    assert result == {'data': {'Calculator': 2, 'result': 0.08}}

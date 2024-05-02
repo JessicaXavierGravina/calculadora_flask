@@ -22,13 +22,13 @@ class Calculator2:
     def __process_data(self, input_data: List[float]) -> float:
         numpy_handler = NumpyHandler()
         first_process_result = [(num * 11) ** 0.95 for num in input_data]
-        result = numpy_handler.standaar_derivation(first_process_result)
+        result = numpy_handler.standard_derivation(first_process_result)
         return 1/result
 
     def __format_response(self, calculated_number: float) -> Dict:
         return {
             "data": {
-                "Calculator": 1,
+                "Calculator": 2,
                 "result": round(calculated_number, 2)
             }
         }
