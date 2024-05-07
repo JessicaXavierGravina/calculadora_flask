@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8be6d749-ae22-49e9-b90a-fe82240ab1b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/interface_raw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/calculators/calculator_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculators/calculator_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calculators/calculator_2_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculators/calculator_2_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drivers/numpy_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/drivers/numpy_handler.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,22 +39,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests in calculator_2_test.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.interface_raw.executor&quot;: &quot;Run&quot;,
-    &quot;Python.run.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for calculators.calculator_2_test.test_calculate.executor": "Run",
+    "Python tests.Python tests in calculator_2_test.py.executor": "Run",
+    "Python.interface_raw.executor": "Run",
+    "Python.run.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Windows\PycharmProjects\API_Flask\src\main" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.interface_raw">
+  <component name="RunManager" selected="Python tests.Python tests for calculators.calculator_2_test.test_calculate">
     <configuration name="interface_raw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="API_Flask" />
       <option name="ENV_FILES" value="" />
@@ -95,6 +100,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for calculators.calculator_2_test.test_calculate" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="API_Flask" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;calculators.calculator_2_test.test_calculate&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests in calculator_2_test.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="API_Flask" />
       <option name="ENV_FILES" value="" />
@@ -112,8 +132,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.interface_raw" />
+        <item itemvalue="Python tests.Python tests for calculators.calculator_2_test.test_calculate" />
         <item itemvalue="Python tests.Python tests in calculator_2_test.py" />
+        <item itemvalue="Python.interface_raw" />
         <item itemvalue="Python.run" />
       </list>
     </recent_temporary>
