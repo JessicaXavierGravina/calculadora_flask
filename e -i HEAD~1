@@ -1,0 +1,199 @@
+[33mcommit 1e9329aaeed6715396c665fa782deebb6f412e62[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Jessica Xavier <jessicabackend@gmail.com>
+Date:   Wed May 8 18:51:28 2024 -0300
+
+    Create: func's-- calculate, __validate_body, __calculate_variance, __calculate_multiplication, _verify_results, __format_response
+
+[33mcommit 5f045516b49ab2d586039b6c370dcd30eacd9c71[m
+Author: Jessica Xavier <jessicabackend@gmail.com>
+Date:   Wed May 8 17:58:14 2024 -0300
+
+    Create: Calcylator3 in:src/calculators/calculator_3
+
+[33mcommit c6e7844dff7c4529c641eef0f39519d29469e463[m
+Author: Jessica Xavier <jessicabackend@gmail.com>
+Date:   Wed May 8 17:51:14 2024 -0300
+
+    Create: abstractclassmethod variance + func variance numpyhandler
+
+[33mcommit bfcd21bc75029aeb2f9a2910a7fc09bc919650c4[m
+Author: Jessica Xavier <jessicabackend@gmail.com>
+Date:   Tue May 7 19:29:25 2024 -0300
+
+    Applying the Factory Standard
+
+[33mcommit bd2d13e69ba51311e2fbaba8d88091e7a83b3508[m
+Author: Jessica Xavier <jessicabackend@gmail.com>
+Date:   Tue May 7 16:03:02 2024 -0300
+
+    Implementing the Second Calculator Route
+
+[33mcommit ba236bad18a3d8c72129ffa538a9bb16df8e1b85[m
+Author: Jessica Xavier <jessicabackend@gmail.com>
+Date:   Tue May 7 15:59:46 2024 -0300
+
+    testing with dependencies
+
+[33mcommit 7937d4a4aecb3bca74f33b560deccd2dcf8859fb[m
+Author: Jessica Xavier <jessicabackend@gmail.com>
+Date:   Tue May 7 15:49:37 2024 -0300
+
+    apply interfaces +calculator_2_test
+
+[33mcommit f2ed348dee05a7eddd8b9a071f9de6a4bb88a6c5[m
+Author: Jessica Xavier <jessicabackend@gmail.com>
+Date:   Tue May 7 15:38:42 2024 -0300
+
+    implementing DriverHandlerInterface in calculators/calculator_2
+
+[33mcommit 536c02a77d997e9320925a239311b714acfddb3d[m
+Author: Jessica Xavier <jessicabackend@gmail.com>
+Date:   Tue May 7 15:33:24 2024 -0300
+
+    create interfaces/driver_handler | implementing in drivers/numpy_handler
+
+[33mcommit 65883fb83d936f2860f1decc47cde0b13938fa81[m
+Author: Jessica Xavier <jessicabackend@gmail.com>
+Date:   Thu May 2 18:22:07 2024 -0300
+
+    complementando calculator_2_test /+errodedigitaçao calculator_2: 'standaar_derivation : standard_derivation
+
+[33mcommit 08945a7d9c747e9d07ed2a22fcef86c45dec4cae[m
+Author: Jessica Xavier <jessicabackend@gmail.com>
+Date:   Thu May 2 17:57:26 2024 -0300
+
+    update calculators/calculator_2: process_data + __format_response
+
+[33mcommit 232575cc39e066fa522aec71cc5bd5abbe13b932[m
+Author: Jessica Xavier <jessicabackend@gmail.com>
+Date:   Thu May 2 16:57:30 2024 -0300
+
+    test2 calculators/calculator_2_test
+
+[33mcommit d7bc5b089e1704c91d5c9bd9af013c7322feef33[m
+Author: Jessica Xavier <jessicabackend@gmail.com>
+Date:   Thu May 2 16:47:41 2024 -0300
+
+    create calculators/calculator_2
+
+[33mcommit ce058ba1ccc4628ba649fa639dab85fcf17254c3[m
+Merge: 2dcba65 c259513
+Author: Jessica Xavier <jessicabackend@gmail.com>
+Date:   Thu May 2 14:40:47 2024 -0300
+
+    update requirements.txt + create: drivers/numpy_handler
+
+[33mcommit 2dcba65729732f5a42ccacb5ee1bbaedfaa40682[m
+Author: Jessica Xavier <jessicabackend@gmail.com>
+Date:   Thu May 2 14:39:19 2024 -0300
+
+    update requirements.txt + create: drivers/numpy_handler
+
+[33mcommit c259513f7b41deb8b08c7c2ddd04f36924e9b81b[m
+Author: Jéssica Xavier Gravina <116176017+JessicaXavierGravina@users.noreply.github.com>
+Date:   Mon Apr 29 23:25:24 2024 -0300
+
+    Delete src/calculators/__pycache__ directory
+
+[33mcommit 8c660e01dccbd1f75a6e97d3496400e5da4571fd[m
+Author: Jessica Xavier <jessicabackend@gmail.com>
+Date:   Mon Apr 29 23:24:47 2024 -0300
+
+    update settings.json
+
+[33mcommit 363eb89ec35c3fccd70cf2a75b2c42eb43c3acbd[m
+Author: Jessica Xavier <jessicabackend@gmail.com>
+Date:   Mon Apr 29 23:20:27 2024 -0300
+
+    create teste unitario: calculator_1_test
+
+[33mcommit cfca7cb74b4fbf5335f2df7a2f085a7705c43666[m
+Merge: dd50cbe e7d9a88
+Author: Jessica Xavier <jessicabackend@gmail.com>
+Date:   Mon Apr 29 19:59:26 2024 -0300
+
+    create requirements.txt
+
+[33mcommit dd50cbe2a9458b3fe9bd8ad49b02d02f5410e586[m
+Author: Jessica Xavier <jessicabackend@gmail.com>
+Date:   Mon Apr 29 19:55:43 2024 -0300
+
+    create requirements.txt
+
+[33mcommit e7d9a884159bf3709e3cb9117b29231431f0735c[m
+Author: Jéssica Xavier Gravina <116176017+JessicaXavierGravina@users.noreply.github.com>
+Date:   Mon Apr 29 19:44:10 2024 -0300
+
+    create settings.json
+
+[33mcommit 0115e08a6581b5c16597146a7165e4b84d274b24[m
+Author: Jéssica Xavier Gravina <116176017+JessicaXavierGravina@users.noreply.github.com>
+Date:   Mon Apr 29 19:43:33 2024 -0300
+
+    Delete src/main/routes/__pycache__ directory
+
+[33mcommit bf9a8f23261d16d91486dc9f3727a4df47d915bf[m
+Author: Jéssica Xavier Gravina <116176017+JessicaXavierGravina@users.noreply.github.com>
+Date:   Mon Apr 29 19:43:11 2024 -0300
+
+    Delete src/main/server/__pycache__ directory
+
+[33mcommit e2d9f3346c9ff26c7d15cabdb2155af624f48b6d[m
+Author: Jéssica Xavier Gravina <116176017+JessicaXavierGravina@users.noreply.github.com>
+Date:   Mon Apr 29 19:42:59 2024 -0300
+
+    Delete src/main/__pycache__ directory
+
+[33mcommit 78d2438edc334ec57bc87b84031bc7a4b3aac540[m
+Author: Jéssica Xavier Gravina <116176017+JessicaXavierGravina@users.noreply.github.com>
+Date:   Mon Apr 29 19:42:42 2024 -0300
+
+    Delete src/__pycache__ directory
+
+[33mcommit 4d2b216cddf7da7714e37a0f48b52d78416851ef[m
+Author: Jéssica Xavier Gravina <116176017+JessicaXavierGravina@users.noreply.github.com>
+Date:   Mon Apr 29 19:42:28 2024 -0300
+
+    Delete src/calculators/__pycache__ directory
+
+[33mcommit cf7a4f3dbc698b9575dccb254d03d55314ad1f80[m
+Author: Jéssica Xavier Gravina <116176017+JessicaXavierGravina@users.noreply.github.com>
+Date:   Mon Apr 29 19:41:03 2024 -0300
+
+    create settings.json
+
+[33mcommit 852c8a44adbd76019d4683177c4f94c5218efaa8[m
+Author: Jessica Xavier <jessicabackend@gmail.com>
+Date:   Mon Apr 29 19:39:28 2024 -0300
+
+    pycache
+
+[33mcommit 1593b694a225a8b4ec7289f02329638bb3471f2b[m
+Author: Jessica Xavier <jessicabackend@gmail.com>
+Date:   Mon Apr 29 19:37:57 2024 -0300
+
+    add gitignore
+
+[33mcommit 7cd99ac6a71460203fb24dcf48e9ade4ce445d76[m
+Author: Jessica Xavier <jessicabackend@gmail.com>
+Date:   Mon Apr 29 19:36:20 2024 -0300
+
+    add gitignore
+
+[33mcommit 0cdb3f04e018a66b78714c96d2dda6afb5481cfe[m
+Author: Jessica Xavier <jessicabackend@gmail.com>
+Date:   Mon Apr 29 19:34:17 2024 -0300
+
+    update calculators/ccalculator_1.py/class Calculater1
+
+[33mcommit 76719bce9ca2a9399906661d8eb32fb6ea8559b7[m
+Author: Jessica Xavier <jessicabackend@gmail.com>
+Date:   Mon Apr 29 19:00:35 2024 -0300
+
+    create settings.json
+
+[33mcommit 342b2f784d2f62fff2759893e064df626c06b4be[m
+Author: Jessica Xavier <jessicabackend@gmail.com>
+Date:   Mon Apr 29 18:55:09 2024 -0300
+
+    first commit
