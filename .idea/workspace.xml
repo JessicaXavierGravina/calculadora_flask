@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8be6d749-ae22-49e9-b90a-fe82240ab1b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/calculators/calculator_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +52,7 @@
       <recent name="C:\Users\Windows\PycharmProjects\API_Flask\src\main" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for calculators.calculator_2_test.test_calculate">
+  <component name="RunManager" selected="Python.run">
     <configuration name="interface_raw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="API_Flask" />
       <option name="ENV_FILES" value="" />
@@ -128,10 +129,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.run" />
         <item itemvalue="Python tests.Python tests for calculators.calculator_2_test.test_calculate" />
         <item itemvalue="Python tests.Python tests in calculator_2_test.py" />
         <item itemvalue="Python.interface_raw" />
-        <item itemvalue="Python.run" />
       </list>
     </recent_temporary>
   </component>
