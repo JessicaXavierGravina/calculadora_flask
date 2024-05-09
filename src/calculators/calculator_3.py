@@ -1,6 +1,8 @@
 from flask import request as FlaskRequest
 from typing import Dict, List
-from src.drivers.interfaces.driver_handler_interface import DriverHandlerInterface
+from src.drivers.interfaces.driver_handler_interface import (
+    DriverHandlerInterface
+)
 
 
 class Calculator3:
@@ -14,7 +16,7 @@ class Calculator3:
         variance = self.__calculate_variance(input_data)
         multiplication = self.__calculate_multiplication(input_data)
         self.__verify_results(variance, multiplication)
-        formated_response = self.__format_response(multiplication)
+        formated_response = self.__format_response(variance)
 
         return formated_response
 
@@ -38,7 +40,7 @@ class Calculator3:
 
     def __verify_results(self, variance: float, multiplication: float) -> None:
         if variance < multiplication:
-            raise Exception('Falha no processo: Variância menor que\
+            raise Exception('Falha no processo: Variância menor que \
                             multiplicação')
 
     def __format_response(self, variance: float) -> Dict:
