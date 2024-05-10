@@ -40,8 +40,7 @@ class Calculator3:
 
     def __verify_results(self, variance: float, multiplication: float) -> None:
         if variance < multiplication:
-            raise Exception('Falha no processo: Variância menor que \
-                            multiplicação')
+            raise Exception('Falha no processo: Variância menor que multiplicação')
 
     def __format_response(self, variance: float) -> Dict:
         return {
