@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8be6d749-ae22-49e9-b90a-fe82240ab1b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/errors/_init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/errors/http_bad_request.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/errors/http_unprocessable_entity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/errors/error_controller.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calculators/calculator_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculators/calculator_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calculators/calculator_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculators/calculator_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calculators/calculator_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculators/calculator_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/routes/calculators.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/routes/calculators.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
